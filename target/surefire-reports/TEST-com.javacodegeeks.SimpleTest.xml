@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0" errors="0" skipped="0" tests="1" name="com.javacodegeeks.SimpleTest">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\KEERTHI-PC"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_79\jre"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="PWD" value="/cygdrive/c/tomCat/apache-tomcat-7.0.67/bin"/>
+    <property name="JENKINS_URL" value="http://localhost:8046/"/>
+    <property name="PRINTER" value="Student Mobile Printing Color"/>
+    <property name="VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="Keerthi-PC"/>
+    <property name="ORIGINAL_PATH" value="/cygdrive/c/Program Files (x86)/PC Connectivity Solution:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/Program Files/Dell/DW WLAN Card:/cygdrive/c/Program Files/WIDCOMM/Bluetooth Software:/cygdrive/c/Program Files/WIDCOMM/Bluetooth Software/syswow64:/cygdrive/c/Program Files (x86)/Common Files/Roxio Shared/DLLShared:/cygdrive/c/Program Files (x86)/QuickTime/QTSystem:/cygdrive/c/Program Files/MATLAB/R2013a/runtime/win64:/cygdrive/c/Program Files/MATLAB/R2013a/bin:/cygdrive/c/Program Files/Microsoft SQL Server/110/Tools/Binn:/cygdrive/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/cygdrive/c/Program Files/Microsoft/Web Platform Installer:/cygdrive/c/Program Files (x86)/PharosSystems/Core:/cygdrive/c/Program Files/Java/jdk1.7.0_79/bin:/cygdrive/c/DevOps/apache-maven-3.3.9-bin/apache-maven-3.3.9/bin:/cygdrive/c/Program Files (x86)/SSH Communications Security/SSH Secure Shell"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.7.0_79"/>
+    <property name="JOB_NAME" value="sampleNexus"/>
+    <property name="COMPUTERNAME" value="KEERTHI-PC"/>
+    <property name="SYSTEMDRIVE" value="C:"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="VS120COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\"/>
+    <property name="user.name" value="Keerthi"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 37 Stepping 5, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Keerthi\AppData\Local"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="INFOPATH" value="/usr/local/info:/usr/share/info:/usr/info"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-sampleNexus-2"/>
+    <property name="TERM" value="xterm"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="PATH" value="C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\Program Files (x86)\PC Connectivity Solution;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Dell\DW WLAN Card;C:\Program Files\WIDCOMM\Bluetooth Software;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared;C:\Program Files (x86)\QuickTime\QTSystem;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files\Java\jdk1.7.0_79\bin;C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9 C:\tomCat\apache-tomcat-7.0.67\webapps\ROOT\WEB-INF\lib\remoting-2.53.2.jar C:\Users\Keerthi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\Keerthi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 64848"/>
+    <property name="HUDSON_URL" value="http://localhost:8046/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="9923fb104c6fd452"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="java.io.tmpdir" value="C:\cygwin64\tmp\"/>
+    <property name="APPDATA" value="C:\Users\Keerthi\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="SYSTEMROOT" value="C:\WINDOWS"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8046/job/sampleNexus/2/"/>
+    <property name="SHLVL" value="2"/>
+    <property name="M2_HOME" value="C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="USER" value="Keerthi"/>
+    <property name="COMMONPROGRAMFILES" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="EXECIGNORE" value="*.dll"/>
+    <property name="HUDSON_SERVER_COOKIE" value="9923fb104c6fd452"/>
+    <property name="MAVEN_HOME" value="C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Keerthi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="HOMEPATH" value="\Users\Keerthi"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="maven3.interceptor" value="C:\Users\Keerthi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_79\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9/bin;C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\Program Files (x86)\PC Connectivity Solution;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Dell\DW WLAN Card;C:\Program Files\WIDCOMM\Bluetooth Software;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared;C:\Program Files (x86)\QuickTime\QTSystem;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files\Java\jdk1.7.0_79\bin;C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="org.java"/>
+    <property name="POM_ARTIFACTID" value="SampleExample"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="PT6HOME" value="C:\Program Files (x86)\Cisco Packet Tracer 6.0.1"/>
+    <property name="JOB_URL" value="http://localhost:8046/job/sampleNexus/"/>
+    <property name="JENKINS_HOME" value="C:\Users\Keerthi\.jenkins"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="TEMP" value="C:\cygwin64\tmp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\bin"/>
+    <property name="M2" value="C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="2505"/>
+    <property name="POM_VERSION" value="2.0"/>
+    <property name="HUDSON_HOME" value="C:\Users\Keerthi\.jenkins"/>
+    <property name="COMSPEC" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="Keerthi-PC"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.7.0_79"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="PROGRAMFILES" value="C:\Program Files"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\Keerthi"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\Keerthi"/>
+    <property name="USERNAME" value="Keerthi"/>
+    <property name="_" value="/cygdrive/c/Program Files/Java/jdk1.7.0_79/bin/java"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\DevOps\SampleExample\SampleExample"/>
+    <property name="PROFILEREAD" value="true"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\cygwin64\tmp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vm.version" value="24.79-b02"/>
+    <property name="java.class.path" value="C:\Users\Keerthi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="PT5HOME" value="C:\Program Files (x86)\Cisco Packet Tracer 6.0.1"/>
+    <property name="WORKSPACE" value="C:\Users\Keerthi\.jenkins\jobs\sampleNexus\workspace"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.7.0_79-b15"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\DevOps\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="HOSTNAME" value="Keerthi-PC"/>
+    <property name="TZ" value="America/Chicago"/>
+    <property name="HOME" value="C:\cygwin64\home\Keerthi"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="QTJAVA" value="C:\Program Files (x86)\Java\jre6\lib\ext\QTJava.zip"/>
+    <property name="WINDIR" value="C:\WINDOWS"/>
+    <property name="POM_DISPLAYNAME" value="SampleExample"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase time="0" classname="com.javacodegeeks.SimpleTest" name="test"/>
+</testsuite>
